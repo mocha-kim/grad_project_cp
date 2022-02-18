@@ -2,6 +2,7 @@
 ====
 2020 졸업 프로젝트 - 사용자 맞춤형 공연일정 관리 및 공연 정보 앱 개발
 
+프로젝트 설명 Youtube: https://www.youtube.com/watch?v=hxGjGDSwan0&t=132s
 
 
 팀원
